@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeduShop.Common", "TeduShop
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeduShop.Model", "TeduShop.Model\TeduShop.Model.csproj", "{5E344854-FB05-4D18-97D9-703D30FF77C0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TedShop.Data", "TedShop.Data\TedShop.Data.csproj", "{91514D8E-72E6-4D21-A327-5C5262F133E0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeduShop.Data", "TedShop.Data\TeduShop.Data.csproj", "{91514D8E-72E6-4D21-A327-5C5262F133E0}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeduShop.Service", "TeduShop.Service\TeduShop.Service.csproj", "{EE3A77BD-B48C-4AF5-AE43-FB41326C8F14}"
 EndProject

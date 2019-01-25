@@ -192,9 +192,9 @@
     <Content Include="Scripts\jquery-1.10.2.min.map" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\TedShop.Data\TedShop.Data.csproj">
+    <ProjectReference Include="..\TedShop.Data\TeduShop.Data.csproj">
       <Project>{91514d8e-72e6-4d21-a327-5c5262f133e0}</Project>
-      <Name>TedShop.Data</Name>
+      <Name>TeduShop.Data</Name>
     </ProjectReference>
     <ProjectReference Include="..\TeduShop.Common\TeduShop.Common.csproj">
       <Project>{c5f77c34-b9c0-425f-aa6a-8482c1abfda8}</Project>
