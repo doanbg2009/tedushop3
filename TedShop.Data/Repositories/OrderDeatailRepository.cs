@@ -4,7 +4,7 @@ using TeduShop.Model.Models;
 
 namespace TedShop.Data.Repositories
 {
-    public interface IOrderDeatailRepository
+    public interface IOrderDeatailRepository : IRepository<OrderDetail>
     {
     }
 

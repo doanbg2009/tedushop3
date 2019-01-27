@@ -4,7 +4,7 @@ using TeduShop.Model.Models;
 
 namespace TedShop.Data.Repositories
 {
-    public interface IPostRepository
+    public interface IPostRepository : IRepository<Post>
     {
     }
 
